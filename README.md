@@ -174,8 +174,6 @@ Vrushali Rao — Platform Engineering & MLOps Lead
 11+ years of experience in software engineering, platform systems, and ML-enabled products.
 Currently leading AI/ML platform initiatives, including governance, deployment standards, and infrastructure for large-scale prediction systems.
 
-This project reflects practical experience in designing and governing AI platforms, including applying RAG patterns to production-oriented use cases.
-
 GitHub: https://github.com/vrushali-rao
 LinkedIn: https://linkedin.com/in/vrushali-rao
 

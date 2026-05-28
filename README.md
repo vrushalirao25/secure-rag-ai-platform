@@ -169,10 +169,11 @@ This repository is part of a broader focus on AI Platform Engineering and MLOps,
 
 ## About the Author
 
-Vrushali Rao — Platform Engineering & MLOps Lead
+Vrushali Rao is a Technical Program Manager focused on AI/ML Platform Engineering, MLOps, and AI systems enablement.
 
-11+ years of experience in software engineering, platform systems, and ML-enabled products.
-Currently leading AI/ML platform initiatives, including governance, deployment standards, and infrastructure for large-scale prediction systems.
+With 11+ years of experience across software engineering, platform systems, cloud infrastructure, and cross-functional technical delivery, she works on AI platform governance, deployment standards, release processes, and scalable ML infrastructure for production AI systems.
+
+Areas of interest include AI Platform Engineering, GenAI systems, MLOps governance, AWS architecture, and technical product delivery.
 
 GitHub: https://github.com/vrushali-rao
 LinkedIn: https://linkedin.com/in/vrushali-rao

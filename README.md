@@ -175,7 +175,7 @@ With 11+ years of experience across software engineering, platform systems, clou
 
 Areas of interest include AI Platform Engineering, GenAI systems, MLOps governance, AWS architecture, and technical product delivery.
 
-GitHub: https://github.com/vrushali-rao
+GitHub: https://github.com/vrushalirao25
 
 LinkedIn: https://linkedin.com/in/vrushali-rao
 

@@ -31,10 +31,13 @@ TOP_K = 2
 
 # ── Sample Knowledge Base (simulates S3 + OpenSearch) ───────────
 DOCUMENTS = [
-    "EDD platform processes 1M+ monthly predictions across logistics clients.",
-    "Model retraining uses XGBoost (21-day cycle) and LightGBM (3-day cycle).",
-    "Deployment requires validation signals including logs, DB writes, and monitoring.",
-    "Platform KPIs include accuracy, SLA breach rate, and system availability."
+    "Model retraining pipelines are orchestrated using Apache Airflow with automated validation and deployment approval gates.", 
+    "Production deployment requires monitoring validation including API health checks, prediction logging, CloudWatch alerts, and database write verification.",
+    "The platform uses Amazon S3 for artifact storage and Amazon Bedrock for GenAI-powered summarization workflows.",
+    "Platform KPIs include prediction accuracy, SLA breach reduction, inference latency, and deployment stability.", 
+    "Role-based IAM policies restrict access between data ingestion, model inference, and deployment workflows.",
+    "Fallback strategies are implemented to handle model service degradation and retrieval failures.", 
+    "Observability pipelines capture inference metrics, failure signals, and operational logs for monitoring and governance."
 ]
 
 # ── Bedrock Client ──────────────────────────────────────────────
@@ -147,7 +150,7 @@ def run_demo():
     # Platform health validation
     health_check(client)
 
-    query = "How does the EDD platform work?"
+    query = "How are model retraining and deployment managed?"
 
     print("\n--- RAG DEMO ---")
     print("Query:", query)
